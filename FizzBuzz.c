@@ -6,7 +6,7 @@ int main(void)
 
     int i;
     scanf("%d", &i);
-    for (int d = 0; d < i; d++){
+    for (int d = 0; d <= i; d++){
 
        if (d % 3 == 0 && d % 5 == 0){
         printf("FizzBuzz\n");
