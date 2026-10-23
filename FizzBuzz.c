@@ -4,8 +4,8 @@ int main(void)
 {
     printf("How much times do you wish to fizz a buzz\n");
 
-    scanf();
-    for (int i = 0; i < 100; i++){
+    int i = scanf();
+    for ( i < 100; i++){
 
        if (i % 3 == 0 && i % 5 == 0){
         printf("FizzBuzz");
