@@ -2,10 +2,10 @@
 
 int main(void)
 {
-    printf("Did you fizz or did you buzz?\n");
+    printf("How much times do you wish to fizz a buzz\n");
 
+    scanf();
     for (int i = 0; i < 100; i++){
-       printf("wow\n");
 
        if (i % 3 == 0 && i % 5 == 0){
         printf("FizzBuzz");
