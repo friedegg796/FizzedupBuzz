@@ -1,5 +1,11 @@
 # FizzedupBuzz
-FizzBuzz
+FizzBuzz, put a number and it should go up from 0 to that number, saying wheter the number is Fizz, Buzz, or FizzBuzz
+
+Fizz is a multiple of 3
+
+Buzz is a multiple of 5
+
+FizzBuzz is a multiple of both 3 and 5.
 
 
 # Instructions for AI
