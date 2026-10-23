@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("How much times do you scan for a fizz or a buzz\n");
+    printf("How much times do you scan for a fizz or a buzz after 0\n");
 
     int i;
     scanf("%d", &i);
